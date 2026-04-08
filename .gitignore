@@ -1,0 +1,13 @@
+venv/
+.venv/
+data/
+results/
+Imp results/
+__pycache__/
+*.npy
+*.pt
+*.npz
+*.pyc
+*.png
+*.json
+*.csv
