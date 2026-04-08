@@ -119,6 +119,6 @@ confusion matrix PNGs, and training curve plots.
 
 ## Author
 
-Dhyana Chandravadan Parmar (22BIT099)
-Carleton University Internship, Project A
-Supervisor: Prof. Leonard
+Dhyana Chandravadan Parmar 
+Carleton University Internship, 
+Supervisor: Dr. Leonard MacEachern
