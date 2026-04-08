@@ -21,6 +21,8 @@ and 6-class gesture tasks.
 | SpikingJelly SNN | 6-class | 85.00%   | 0.8497   |
 
 ## Project Structure
+
+```
 brian2_emg_project/
 ├── src/
 │   ├── snn.py                      # Brian2 SNN architecture
@@ -48,6 +50,8 @@ brian2_emg_project/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+
+```
 
 ## Dataset
 
