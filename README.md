@@ -119,7 +119,10 @@ confusion matrix PNGs, and training curve plots.
 
 ## Author
 
-**Dhyana Chandravadan Parmar**
+**Dhyana C. Parmar**
+
 Carleton University Internship
+
 Project A: Brian2 SNN Gesture Labeller
+
 Supervisor: Dr. Leonard MacEachern
